@@ -1,4 +1,4 @@
-#calculator
+# calculator
 this is the first lab given to us
 ## Assignments
 
